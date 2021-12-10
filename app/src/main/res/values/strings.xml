@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InteractiveMovieVoter</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="interactive_movie_label">Interactive Movie</string>
+    <string name="credits_label">Credits</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_world">Hello World</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="my_button">My button</string>
+    <string name="back">Back</string>
+</resources>
